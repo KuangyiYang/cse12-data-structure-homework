@@ -1,0 +1,32 @@
+/* 
+ * NAME: Kuangyi Yang
+ * ID: A53083212
+ * LOGIN: cs12fig
+ */
+When testing by using Milli Time:
+According to my tests, when the number of inputs is around 200, TBST starts performing better than BST.
+This is because BST uses recursion while TBST uses iterative for iorder traversal; Also because in TBST, every node has a pointer to find its in-order successor
+
+input: 100 random numbers
+BST: 1
+TBST: 1
+
+input: 200 random numbers
+BST: 2
+TBST: 1
+
+input: 300 random numbers
+BST: 2
+TBST: 1
+
+input: 400 random numbers
+BST: 3
+TBST: 2
+
+input: 500 random numbers
+BST: 4
+TBST: 2
+
+input: 600 random numbers
+BST: 5
+TBST: 3

@@ -1,0 +1,59 @@
+Part1
+1.
+
+0:
+1: 4371
+2:
+3: 1323
+4: 6173
+5: 9679
+6: 
+7: 4344
+8:
+9: 4199
+
+1989 cannot hash anymore
+======================
+2.
+
+0: 11
+1: 39
+2: 20
+3: 5
+4: 16
+5: 44
+6: 88
+7: 12
+8: 23
+9: 13
+10: 94
+
+======================
+3.
+
+0: 
+1: 28, 19, 10
+2: 20
+3: 12
+4: 
+5: 5
+6: 15, 33
+7: 
+8: 17
+
+======================
+4.
+3*32^5 + 15*32^4 + 6*32^3 + 6*32^2 + 5*32^1 + 5*32^0
+= 116594853
+
+======================
+5.
+It’s not a good idea to store an ordered dictionary in a hash table because we will lose the information of the order, array is a good idea to store ordered dictionary
+
+
+
+
+
+
+
+

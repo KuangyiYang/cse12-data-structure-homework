@@ -1,0 +1,46 @@
+schedule sleep 70 95
+schedule coffee 80 20
+run 70
+schedule facebook 90 35
+run 100
+schedule supper 180 25
+schedule snack 120 20
+schedule workout 170 35
+schedule lecture 140 27
+schedule homework 110 25
+schedule read 230 45
+run 220
+run 230
+
+
+
+
+0: adding sleep with deadline 70 and duration 95
+0: adding coffee with deadline 80 and duration 20
+0: busy with sleep with deadline 70 and duration 95
+70: adding sleep with deadline 70 and duration 25
+70: adding facebook with deadline 90 and duration 35
+70: busy with sleep with deadline 70 and duration 25
+95: done with sleep (late)
+95: busy with coffee with deadline 80 and duration 20
+100: adding coffee with deadline 80 and duration 15
+100: adding supper with deadline 180 and duration 25
+100: adding snack with deadline 120 and duration 20
+100: adding workout with deadline 170 and duration 35
+100: adding lecture with deadline 140 and duration 27
+100: adding homework with deadline 110 and duration 25
+100: adding read with deadline 230 and duration 45
+100: busy with coffee with deadline 80 and duration 15
+115: done with coffee (late)
+115: busy with facebook with deadline 90 and duration 35
+150: done with facebook (late)
+150: busy with homework with deadline 110 and duration 25
+175: done with homework (late)
+175: busy with snack with deadline 120 and duration 20
+195: done with snack (late)
+195: busy with lecture with deadline 140 and duration 27
+220: adding lecture with deadline 140 and duration 2
+220: busy with lecture with deadline 140 and duration 2
+222: done with lecture (late)
+222: busy with workout with deadline 170 and duration 35
+230: adding workout with deadline 170 and duration 27

@@ -1,0 +1,13 @@
+/* 
+ * NAME: Kuangyi Yang
+ * ID: A53083212
+ * LOGIN: cs12fig
+ */
+
+1. We chose isEmpty() in DoubleEndedLL for isEmpty() in MyStack, to check if there is still elements in stack
+
+2. We chose addFirst() method in DoubleEndedLL for add() in MyStack, to add element to the top of stack
+
+3. We chose removeFirst() in DoubleEndedLL for get() in MyStack, to remove the element from the top and stack and return this element
+
+4. We chose size() in DoubleEndedLL for size() in MyStack, to get the number of elements in the stack 
