@@ -1,9 +1,6 @@
-NAME: Kuangyi Yang
-ID: A53083212
-LOGIN: cs12fig
 
-Program Description:
-
+## Doubly LinkedList Project
+### Program Description:
 About DoublyLinkedList12Tester.java
 
 This is a test program for testing DoublyLinkedList12, There are 23 tests included, user should put DoublyLinkedList12Tester.java, DoublyLinkedList12.java and Junit package in the same fold in Eclipse. Click Run button in tools bar, if no failures shows up, DoublyList12.java has passed all tests.
@@ -56,3 +53,11 @@ linkedlist
 
 23. testIteratorRemove is used to test remove in iterator, if success, remove() in iterator works.
 
+### Run Instruction
+Open a terminal window, make sure you are in the top-level project directory `hw2/` Then run:
+
+```javac filename.java```
+
+And:
+
+```java filename```
