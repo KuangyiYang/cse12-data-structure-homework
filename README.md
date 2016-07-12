@@ -15,6 +15,8 @@ There are 9 data structure projects in thie file, all written by JAVA(hw9 by C)
 Make sure you in the top-level project directory 'hw/ '. Then run:
 ```
 javac filename.java # compile doc
-and 
+```
+and
+```
 java filename # run program
 ```
